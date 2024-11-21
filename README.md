@@ -9,7 +9,7 @@
 <h3 align="center">O sistema deve contemplar as seguintes funcionalidades</h4>
 
 
-  - Departamentos - Gerenciamento de departamentos, incluindo a identificação do chefe responsável por cada departamento.
+  - Departamentos - Gerenciamento de departamentos, com a identificação do chefe responsável por departamento.
   - Professores - Associação de professores aos seus respectivos departamentos.
   - Cursos - Cadastro de cursos ministrados por um ou mais professores.
   - Alunos - Matricular alunos em um ou mais cursos, permitindo o gerenciamento de suas associações.
